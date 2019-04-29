@@ -2,6 +2,7 @@
 ///////////////	Global Variables  //////////////////////////////
 ///////////////////////////////////////////////////////////////
 	document.location = 'project.html'
+
 	var player;
 	var points = 0;
 	document.cookie = 'Enviro-Points = ' + points;
